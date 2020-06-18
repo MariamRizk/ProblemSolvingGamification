@@ -17,3 +17,4 @@ public class InitHinitBox : MonoBehaviour {
 	void Update () {
 	}
 }
+
