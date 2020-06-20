@@ -14,4 +14,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/morgue scene/LaptopPuzzle.unity
     guid: b9dc15bf1f28f9a48b801679897e8fa2
+  - enabled: 1
+    path: Assets/morgue scene/TrashPuzzle.unity
+    guid: 6f295d39aaeb9094a80665790f80296f
+  - enabled: 1
+    path: Assets/morgue scene/ClosetPuzzle.unity
+    guid: 40077135322c44746a42079fc860b4af
   m_configObjects: {}
