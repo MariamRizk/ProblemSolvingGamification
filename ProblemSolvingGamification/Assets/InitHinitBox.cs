@@ -10,7 +10,7 @@ public class InitHinitBox : MonoBehaviour {
 		InputField txtBoxInput = gameObject.GetComponent<InputField>();
 		Debug.Log(txtBoxInput);
 
-		txtBoxInput.text = "dGhlIGxhcmdlc3QgcHJpbWUgZmFjdG9yIG9mIHRoZSBudW1iZXIgNjAwODUxNDc1";
+		txtBoxInput.text = "xE6wEU5ydL46oV3b6ADwRkMkX4smED7sVr4NeaqrRFY";
 	}
 	
 	// Update is called once per frame
